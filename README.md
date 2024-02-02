@@ -2,6 +2,7 @@
 ### 🌱 I’m currently studying web development at I.E.S Celia Viñas
 ###  📫 How to reach me: 
 ###     -Email: karolisjakas04@gmail.com
+###     -Linkedin: www.linkedin.com/in/karolis-jakas-stirbyte
 
 
 
