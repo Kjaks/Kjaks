@@ -3,6 +3,7 @@
 ###  📫 How to reach me: 
 ###     -Email: KarolisJS@protonmail.com
 ###     -Linkedin: www.linkedin.com/in/karolis-jakas-stirbyte
+###     -Personal Blog: https://kjaks.github.io/KarolisJS/
 
 
 
