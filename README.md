@@ -2,7 +2,7 @@
 ###  📫 How to reach me: 
 ###     -Email: karolisjakas04@gmail.com
 ###     -Linkedin: www.linkedin.com/in/karolis-jakas-stirbyte
-###     -Personal Blog: karolisjs.com
+###     -Personal Blog: www.karolisjs.com
 
 
 
