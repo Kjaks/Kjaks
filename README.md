@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###  📫 How to reach me: 
-###     -Email: karolisjakas04@gmail.com
+###     -Email: contact@karolisjs.com
 ###     -Linkedin: www.linkedin.com/in/karolis-jakas-stirbyte
 ###     -Personal Blog: www.karolisjs.com
 
